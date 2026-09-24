@@ -113,9 +113,8 @@ I want to grow into a software engineer who can use technology to turn ideas int
 
 ## 🌐 Let's Connect
 <p align="center">
-    <i>📧 **Email:** rathanachhoun8@gmail.com</i>
-    <i>💼 **LinkedIn:** https://www.linkedin.com/in/rathna-chhourn-58666a3bb/</i>
-    <i>🌍 **Portfolio:** https://rathnaportfolio.vercel.app/</i>
+    <i>💼 https://www.linkedin.com/in/rathna-chhourn-58666a3bb/</i>
+    <i>🌍 https://rathnaportfolio.vercel.app/</i>
 </p>
 
 ---
