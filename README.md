@@ -103,19 +103,20 @@ I want to grow into a software engineer who can use technology to turn ideas int
 ## 📌 A Few Things About Me
 
 🇰🇭 From Cambodia
-☕ Probably debugging something
-🐛 Professional bug finder
-🎨 Occasionally fighting with UI design
-📚 Always learning something new
-🚀 Future projects loading...
+`☕ Probably debugging something`
+`🐛 Professional bug finder`
+`🎨 Occasionally fighting with UI design`
+`📚 Always learning something new`
+`🚀 Future projects loading...`
 
 ---
 
 ## 🌐 Let's Connect
-
-📧 **Email:** rathanachhoun8@gmail.com
-💼 **LinkedIn:** https://www.linkedin.com/in/rathna-chhourn-58666a3bb/
-🌍 **Portfolio:** https://rathnaportfolio.vercel.app/
+<p align="center">
+    <i>📧 **Email:** rathanachhoun8@gmail.com</i>
+    <i>💼 **LinkedIn:** https://www.linkedin.com/in/rathna-chhourn-58666a3bb/</i>
+    <i>🌍 **Portfolio:** https://rathnaportfolio.vercel.app/</i>
+</p>
 
 ---
 
