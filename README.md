@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Rathana!;Software+Engineering+Student;Cambodia" alt="Typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Rathana!;IT+Engineering+Student;......" alt="Typing banner" />
 </div>
 
 # 👋 Hi, I'm Rathana!
