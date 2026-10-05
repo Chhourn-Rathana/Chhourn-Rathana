@@ -1,6 +1,17 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Rathana!;Software+Engineering+Student;Cambodia" alt="Typing banner" />
+</div>
+
 # 👋 Hi, I'm Rathana!
 
 ### 💻 `Software Engineering Student` | 🇰🇭 Cambodia
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Student-IT%20Engineering-00D8FF?style=flat-square&logo=graduation-cap&logoColor=white" alt="IT Engineering Student" />
+  <img src="https://img.shields.io/badge/Learning-Vue.js-42b883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Stack-Laravel-F9322C?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack-5B5BFF?style=flat-square" alt="Fullstack" />
+</div>
 
 ```text
 🎓 4th-year Information Technology Engineering student
@@ -43,6 +54,8 @@ Code works 🎉
 
 ## 🛠️ My Tech Playground
 
+<div align="left">
+
 ### 🌐 Frontend
 
 `Vue.js` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind CSS`
@@ -58,6 +71,8 @@ Code works 🎉
 ### ☁️ Tools & Other Stuff
 
 `Git` `GitHub` `AWS` `Figma` `VS Code` 
+
+</div>
 
 ---
 
